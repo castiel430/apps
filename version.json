@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-14T22:55:56.5129117+03:00",
+    "updated":  "2026-11-14T23:25:28.1616923+03:00",
     "tag":  "latest",
     "apps":  {
                  "com.zikirmatik.akillizikir":  {
@@ -29,7 +29,7 @@
                  "com.aramayonlendirici":  {
                                                "versionName":  "6.4.48",
                                                "versionCode":  60448,
-                                               "apkName":  "aramay?nlendirici-6.4.48.apk",
+                                               "apkName":  "aramayönlendirici-6.4.48.apk",
                                                "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/aramay%C3%B6nlendirici-6.4.48.apk"
                                            },
                  "com.altingumuspiyasa.canli":  {
