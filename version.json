@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-15T13:14:51.7690355+03:00",
+    "updated":  "2026-11-15T22:05:30.5496567+03:00",
     "tag":  "latest",
     "apps":  {
                  "com.zikirmatik.akillizikir":  {
@@ -27,10 +27,10 @@
                                            "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/YakitMatik-6.4.52.apk"
                                        },
                  "com.aramayonlendirici":  {
-                                               "versionName":  "6.4.52",
-                                               "versionCode":  60452,
-                                               "apkName":  "aramayonlendirici-6.4.52.apk",
-                                               "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/aramayonlendirici-6.4.52.apk"
+                                               "versionName":  "6.4.53",
+                                               "versionCode":  60453,
+                                               "apkName":  "aramayonlendirici-6.4.53.apk",
+                                               "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/aramayonlendirici-6.4.53.apk"
                                            },
                  "com.altingumuspiyasa.canli":  {
                                                     "versionName":  "6.4.38",
