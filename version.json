@@ -1,31 +1,31 @@
 {
-    "updated":  "2026-11-15T22:05:30.5496567+03:00",
+    "updated":  "2026-11-16T20:28:34.4251409+03:00",
     "tag":  "latest",
     "apps":  {
                  "com.zikirmatik.akillizikir":  {
-                                                    "versionName":  "6.4.63",
-                                                    "versionCode":  60463,
-                                                    "apkName":  "zikirmatik-6.4.63.apk",
-                                                    "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/zikirmatik-6.4.63.apk"
+                                                    "versionName":  "6.4.64",
+                                                    "versionCode":  60464,
+                                                    "apkName":  "zikirmatik-6.4.64.apk",
+                                                    "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/zikirmatik-6.4.64.apk"
                                                 },
                  "com.akillihatirlatici":  {
-                                               "versionName":  "6.4.49",
-                                               "versionCode":  60449,
-                                               "apkName":  "akillihatirlatici-6.4.49.apk",
-                                               "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/akillihatirlatici-6.4.49.apk"
+                                               "versionName":  "6.4.50",
+                                               "versionCode":  60450,
+                                               "apkName":  "akillihatirlatici-6.4.50.apk",
+                                               "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/akillihatirlatici-6.4.50.apk"
                                            },
                  "com.tarif.defterim":  {
-                                            "versionName":  "6.4.46",
-                                            "versionCode":  60446,
-                                            "apkName":  "TarifDefterim-6.4.46.apk",
-                                            "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/TarifDefterim-6.4.46.apk"
+                                            "versionName":  "6.4.47",
+                                            "versionCode":  60447,
+                                            "apkName":  "TarifDefterim-6.4.47.apk",
+                                            "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/TarifDefterim-6.4.47.apk"
                                         },
-                 "com.yakitmatik.vw":  {
-                                           "versionName":  "6.4.52",
-                                           "versionCode":  60452,
-                                           "apkName":  "YakitMatik-6.4.52.apk",
-                                           "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/YakitMatik-6.4.52.apk"
-                                       },
+                 "com.optikart.akillikullan":  {
+                                                   "versionName":  "6.4.52",
+                                                   "versionCode":  60452,
+                                                   "apkName":  "optikart-6.4.52.apk",
+                                                   "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/optikart-6.4.52.apk"
+                                               },
                  "com.aramayonlendirici":  {
                                                "versionName":  "6.4.53",
                                                "versionCode":  60453,
@@ -33,28 +33,34 @@
                                                "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/aramayonlendirici-6.4.53.apk"
                                            },
                  "com.altingumuspiyasa.canli":  {
-                                                    "versionName":  "6.4.38",
-                                                    "versionCode":  60438,
-                                                    "apkName":  "AltinGumusPiyasa-6.4.38.apk",
-                                                    "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/AltinGumusPiyasa-6.4.38.apk"
+                                                    "versionName":  "6.4.39",
+                                                    "versionCode":  60439,
+                                                    "apkName":  "AltinGumusPiyasa-6.4.39.apk",
+                                                    "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/AltinGumusPiyasa-6.4.39.apk"
                                                 },
                  "com.su.takibi":  {
-                                       "versionName":  "6.4.44",
-                                       "versionCode":  60444,
-                                       "apkName":  "sutakibi-6.4.44.apk",
-                                       "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/sutakibi-6.4.44.apk"
+                                       "versionName":  "6.4.45",
+                                       "versionCode":  60445,
+                                       "apkName":  "sutakibi-6.4.45.apk",
+                                       "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/sutakibi-6.4.45.apk"
                                    },
                  "com.guvenilirgidatakip":  {
-                                                "versionName":  "6.4.45",
-                                                "versionCode":  60445,
-                                                "apkName":  "guvenilirgidatakip-6.4.45.apk",
-                                                "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/guvenilirgidatakip-6.4.45.apk"
+                                                "versionName":  "6.4.46",
+                                                "versionCode":  60446,
+                                                "apkName":  "guvenilirgidatakip-6.4.46.apk",
+                                                "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/guvenilirgidatakip-6.4.46.apk"
                                             },
+                 "com.yakitmatik.vw":  {
+                                           "versionName":  "6.4.53",
+                                           "versionCode":  60453,
+                                           "apkName":  "YakitMatik-6.4.53.apk",
+                                           "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/YakitMatik-6.4.53.apk"
+                                       },
                  "com.sessizsaat.app":  {
-                                            "versionName":  "6.4.46",
-                                            "versionCode":  60446,
-                                            "apkName":  "sessizsaat-6.4.46.apk",
-                                            "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/sessizsaat-6.4.46.apk"
+                                            "versionName":  "6.4.47",
+                                            "versionCode":  60447,
+                                            "apkName":  "sessizsaat-6.4.47.apk",
+                                            "apkUrl":  "https://github.com/castiel430/apps/releases/download/latest/sessizsaat-6.4.47.apk"
                                         }
              }
 }
